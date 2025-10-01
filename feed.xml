@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Demo RSS Actito</title>
+    <link>https://www.actito.com/</link>
+    <description>Feed de pruebas para Newsletter Actito</description>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 01 Oct 2025 08:00:00 +0200</lastBuildDate>
+
+    <!-- Ítem más reciente siempre primero -->
+    <item>
+      <title>Novedad 2: lanzamiento de octubre</title>
+      <link>https://cdn3.actito.com/fe/actito-documentation/whats-new-in-actito#transactional-push-campaigns</link>
+      <description>Transactional push campaigns</description>
+      <enclosure url="https://cdn3.actito.com/fe/actito-documentation/assets/images/september1-4fa454baadacc2816ecc53fd1725c679.png" type="image/jpeg"/>
+      <category>Articulo</category>
+      <pubDate>Wed, 01 Oct 2025 07:55:00 +0200</pubDate>
+    </item>
+
+    <item>
+      <title>Novedad 1: actualización de septiembre</title>
+      <link>https://cdn3.actito.com/fe/actito-documentation/whats-new-in-actito#html-content-library-in-email</link>
+      <description>Resumen corto de la novedad 1.</description>
+      <enclosure url="https://cdn3.actito.com/fe/actito-documentation/assets/images/HTML_AddModule-b78d44d8a6d87db9f0e2e2d22b1ae3d6.png" type="image/jpeg"/>
+      <category>Artiuclo</category>
+      <pubDate>Mon, 15 Sep 2025 10:00:00 +0200</pubDate>
+    </item>
+  </channel>
+</rss>
